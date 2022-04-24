@@ -99,7 +99,7 @@ class _MyAppState extends State<MyApp> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   const SizedBox(height: 30),
-                  const Text("Enter the amount to exchange"),
+                  const Text("Enter the amount of Bitcoin to exchange"),
                   const SizedBox(height: 6),
                   TextField(
                     controller: amount,
